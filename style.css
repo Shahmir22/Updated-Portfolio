@@ -1,0 +1,42 @@
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+  background-color: #666;
+  border-top: #4aaaa5 solid;
+  border-width: 5px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.portfolio {
+  ttext-align: center !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700 !important;
+}
+
+.contact-name {
+  text-align: center !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700 !important;
+}
+
+.software-eng {
+  text-align: center;
+  color: #666;
+}
+
+.contact-links {
+  color: black;
+}
+
+. {
+  height: 350;
+  width: 350;
+}
