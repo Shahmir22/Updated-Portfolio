@@ -36,7 +36,11 @@ footer {
   color: black;
 }
 
-. {
-  height: 350;
-  width: 350;
+#About-me-title {
+  text-align: center;
+}
+
+.P-text {
+  padding-top: 5%;
+  text-align: center;
 }
